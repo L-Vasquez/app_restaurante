@@ -1,0 +1,15 @@
+# Entorno virtual y carpetas de Python
+env/
+__pycache__/
+*.pyc
+
+# Archivos de configuración o sensibles
+.env
+*.log
+
+# Archivos de BD
+*.db
+
+# Carpetas de IDEs o editores
+.vscode/
+.idea/
